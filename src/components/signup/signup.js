@@ -9,7 +9,7 @@ import {
   Image,
   Alert
 } from "react-native";
-export default class signUp extends Component {
+ class signUp extends Component {
   constructor(props) {
     super(props);
     state = {
